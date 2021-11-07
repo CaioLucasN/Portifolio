@@ -126,10 +126,8 @@ h1 {
   background-position: center;
   max-width: 100%;
   background-repeat: no-repeat;
-  margin-top: 50px;
   padding-top: 35px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 50px auto 50px auto;
   max-width: 1000px;
   padding-bottom: 35px;
 }
@@ -195,10 +193,8 @@ h1 {
   background-position: center;
   max-width: 100%;
   background-repeat: no-repeat;
-  margin-top: 50px;
   padding-top: 35px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 50px auto 50px auto;
   max-width: 1000px;
   padding-bottom: 35px;
 }
@@ -305,10 +301,8 @@ ul {
   background-position: center;
   max-width: 100%;
   background-repeat: no-repeat;
-  margin-top: 50px;
   padding-top: 35px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 50px auto 50px auto;
   max-width: 1000px;
   padding-bottom: 35px;
 }
