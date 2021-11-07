@@ -1,10 +1,10 @@
 @font-face {
   font-family: "Trajan-Pro-Bold";
   src: url('Trajan-Pro-Bold.woff') format('woff'),
-    url('css/Trajan-Pro-Bold.woff2') format('woff2'),
-    url('css/Trajan-Pro-Bold.eot'),
-    url('css/Trajan-Pro-Bold.eot?#iefix') format('embedded-opentype'),
-    url('css/Trajan-Pro-Bold.ttf') format('truetype');
+    url('CSS/Trajan-Pro-Bold.woff2') format('woff2'),
+    url('CSS/Trajan-Pro-Bold.eot'),
+    url('CSS/Trajan-Pro-Bold.eot?#iefix') format('embedded-opentype'),
+    url('CSS/Trajan-Pro-Bold.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
@@ -273,7 +273,7 @@ ul {
   background-color: #f06529;
 }
 
-.css {
+.CSS {
   background-color: #2965f1;
 }
 
